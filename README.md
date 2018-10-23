@@ -12,7 +12,7 @@ Create an alert displaying "I am learning JavaScript".
 Create a button which displays content after an alert message is shown.
 
 ## Live Link
-- https://evanryk.github.io/2018-10-09/
+- https://nkamish.github.io/javascript/index.html
 
 ### Technologies Used
 
