@@ -1,3 +1,12 @@
-// This is an alert
+// Variables Listed bellow-------------------------------------------------->
 
-alert('Hello, I am Natheer!')
+var message = "Good morning";
+    user = "Natheer";
+    age = "22";
+    gender = "Male";
+
+
+alert(message);
+alert(user);
+alert(age);
+alert(gender);

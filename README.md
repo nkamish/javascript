@@ -12,8 +12,14 @@ An alert box is often used if you want to make sure information comes through to
 Create an alert displaying "I am learning JavaScript". 
 Create a button which displays content after an alert message is shown.
 
+# Variables
+
+JavaScript variables are containers for storing data values.
+To create a variable in Javascript, we need to use the let or var keyword.
+
 ## Live Link
 - https://nkamish.github.io/javascript/index.html
+
 
 ### Technologies Used
 
