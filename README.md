@@ -4,7 +4,8 @@ JavaScript, often abbreviated as JS, is a high-level, interpreted programming la
 
 ## Javascript Alert
 
-
+The alert() method displays an alert box with a specified message and an OK button.
+An alert box is often used if you want to make sure information comes through to the user.
 
 ## Task
 
